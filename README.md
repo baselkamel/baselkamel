@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Basel</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="center" src="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966.gif" alt="baselkamel" />
+<p><img align="right" src=https://camo.githubusercontent.com/61d647cf136e8b81720294531eedb797e4a1511fb2ad76796526865642ff76e7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966  alt="baselkamel" /></p>
 
 
 - 🌱 I’m currently learning **react js**
