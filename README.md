@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/basel-hadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basel-hadi" height="30" width="40" /></a>
-<a href="https://fb.com/basel.abdalhadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basel.abdalhadi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/basel-hadi-459515280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basel-hadi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/basel.abdalhadi.752?mibextid=D4KYlr"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basel.abdalhadi" height="30" width="40" /></a>
 <a href="https://instagram.com/basel_abdlahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basel_abdlahadi" height="30" width="40" /></a>
 </p>
 
